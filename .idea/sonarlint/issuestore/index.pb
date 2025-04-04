@@ -5,3 +5,5 @@ U
 %contracts/applicant-verification.clar,3/0/309bbd9a71b52267b4010a57c4d89afe69352b9d
 T
 $tests/applicant-verification.test.ts,a/c/acbb82c66c3d9d7032352177ea42472ccf3473cc
+P
+ contracts/fund-disbursement.clar,c/c/cc206d5b223168a3045df82f6ff6cc161d7d29d6
